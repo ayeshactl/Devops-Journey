@@ -29,7 +29,7 @@ Here’s how I’m documenting my DevOps learning journey:
 ## Want to Join Me? 🤝  
 I’d love to connect with fellow learners, developers, or anyone interested in DevOps. Let’s grow together!  
 
-- **LinkedIn**: [Connect with me]([https://linkedin.com/in/yourprofile](https://bit.ly/40KIVQt))   
+- **LinkedIn**: [Connect with me][https://linkedin.com/in/yourprofile](https://bit.ly/40KIVQt)   
 
 ---
 
