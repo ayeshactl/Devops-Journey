@@ -34,4 +34,4 @@ I’d love to connect with fellow learners, developers, or anyone interested in 
 
 ---
 
-Let’s make this DevOps journey exciting, fun, and full of learning! 🚀  
+Let’s make this DevOps journey exciting, fun, and full of learning together! 🚀  
