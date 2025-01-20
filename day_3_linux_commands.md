@@ -520,5 +520,12 @@ Welcome to **Day 3** of my DevOps journey! Today, I’ve learned **100 Linux com
 100. **`echo`** - Display a line of text
 
 
+### Conclusion
+The path to becoming a **DevOps Engineer** requires a mix of foundational knowledge, mastering tools, and consistent hands-on practice. Keep learning, building projects, and collaborating with teams to gain real-world experience.
+
+---
+
+### Reference:
+For more insights, check out this article on **[Linux Commands in DevOps](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)**.
     - Usage: `echo "Hello, World!"`
     - Example: Prints "Hello, World!" to the terminal.
