@@ -1,4 +1,4 @@
-# Knock, Knock! Who’s There? 👀 
+## Knock, Knock! Who’s There? 👀 
 
 It’s you! And I’m guessing you’re here because:  
 - You’re curious about **DevOps** 🤔  
@@ -34,4 +34,4 @@ I’d love to connect with fellow learners, developers, or anyone interested in 
 
 ---
 
-Let’s make this DevOps journey exciting, fun, and full of learning!!!! 🚀  
+Let’s make this DevOps journey exciting, fun, and full of learning together!!!! 🚀  
