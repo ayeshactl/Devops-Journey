@@ -8,6 +8,10 @@ function greet() {
 # Call function
 greet "Ayesha"
 
+#output:
+Hello, Ayesha! Welcome to Advanced Shell Scripting.
+
+#
 
 
 
