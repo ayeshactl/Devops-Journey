@@ -1,7 +1,7 @@
 
 
 """
-n Python, split() is a string method that breaks a string into a list using a separator (default = whitespace). ✅
+n Python, split() is a string method that breaks a string into a list using a separator (default = whitespace)... ✅
 """
 
 
