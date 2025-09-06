@@ -26,7 +26,7 @@ x = True
 print(x)  # True
 
 
-# 19Use: Boolean value False
+# 19 Use: Boolean value False
 x = False
 print(x)  # False
 
