@@ -43,3 +43,7 @@ print(a is b)  # True
 # 22 Use: Small anonymous function
 square = lambda x: x**2
 print(square(5))  # 25
+
+# 23 Use: Context manager for files, resources
+with open("file.txt", "w") as f:
+    f.write("Hello")
