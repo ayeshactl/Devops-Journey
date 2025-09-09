@@ -33,4 +33,3 @@ for i in range(1, 11):  # numbers from 1 to 10
         print("The loop is stopped at 7")
         break             # exit the loop
     print(i)              # print numbers before 7
-s
